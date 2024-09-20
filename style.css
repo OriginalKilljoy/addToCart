@@ -2,3 +2,9 @@ button {
     width: 100px;
     border: solid gray 5px;
 }
+.div
+
+.shoppingCart {
+    display: flex;
+    flex-direction: column;
+}
