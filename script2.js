@@ -1,3 +1,5 @@
+//FORELØPIG RIKTIG FIL!
+
 //MODEL
     let products = ['apple', 'pear', 'banana', 'pineapple', 'mango'];
     let shoppingCart = [];
@@ -23,6 +25,8 @@
 
 //CONTROLLER
 
+
+//Denne henter direkte informasjonen fra arrayet med produkter og legger det inn i arrayet til shoppingcart via knappetrykk.
 function addItem(indexOfProduct){
     shoppingCart.push(indexOfProduct)
     
