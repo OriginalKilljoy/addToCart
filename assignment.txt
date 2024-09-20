@@ -8,3 +8,9 @@ Jeg trenger:
 Må se:
 - Handlekurv
 - Items (button?) - koblet til array
+
+OBS OBS
+Jeg har tre script filer her, og sparer foreløpig på alle. Jeg føler jeg ikke forsto oppgaven 100%,
+men det kan også evt komme av at jeg rett og slett ikke er så komfortabel med loops og arrays ennå.
+Jeg kommer til å forsette litt i moodle og komme tilbake til dette, men beholder det som ligger i script2.js foreløpig,
+da det er den som funker og jeg føler den følger oppgaveteksten nærmest.
